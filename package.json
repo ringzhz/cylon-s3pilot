@@ -1,0 +1,15 @@
+{
+    "name": "cylon-s3pilot",
+    "description": "Cylon module for the S3Pilot board.",
+    "version": "0.0.0",
+    "main": "lib/s3pilot.js",
+    "devDependencies": {
+        "chai": "2.1.0",
+        "mocha": "2.1.0",
+        "sinon": "1.12.2",
+        "sinon-chai": "2.7.0"
+    },
+    "dependencies": {
+        "cylon": "0.22.1"
+    }
+}
